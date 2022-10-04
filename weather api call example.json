@@ -1,0 +1,53 @@
+{
+    "coord": {
+        "lon": -73.9236,
+        "lat": 40.8273
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10n"
+        },
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 48.33,
+        "feels_like": 41.72,
+        "temp_min": 46.18,
+        "temp_max": 50.11,
+        "pressure": 1021,
+        "humidity": 86
+    },
+    "visibility": 9656,
+    "wind": {
+        "speed": 18.41,
+        "deg": 30,
+        "gust": 25.32
+    },
+    "rain": {
+        "1h": 0.73
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1664850763,
+    "sys": {
+        "type": 2,
+        "id": 57022,
+        "country": "US",
+        "sunrise": 1664794447,
+        "sunset": 1664836506
+    },
+    "timezone": -14400,
+    "id": 5110253,
+    "name": "Bronx County",
+    "cod": 200
+}
